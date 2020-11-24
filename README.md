@@ -1,4 +1,7 @@
 # snake
+A simple snake game as a coding exercise in vue.
+
+[Demo](https://modicum.one/snake)
 
 ## Project setup
 ```
