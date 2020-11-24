@@ -32,7 +32,7 @@ export default {
       direction: {x:0,y:-1},
       board:[],
       snake:[],
-      speed:20  0
+      speed:200
     }
   },
   methods:{
